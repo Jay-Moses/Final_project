@@ -19,4 +19,9 @@ A Python-based desktop application that automates class attendance by recognizin
 - **Others:** Pillow, NumPy, mysql-connector-python
 
 ## 🏗️ Project Structure
+![Camera capture](https://github.com/user-attachments/assets/fd570beb-2141-4662-8e08-29953c02c85b)
 
+![Dashboard](https://github.com/user-attachments/assets/ac342f0f-6d6d-4b9f-a5f7-a63ab167f5c3)
+
+![Attendance](https://github.com/user-attachments/assets/59409e62-21aa-4f45-8bf7-6395e88637e7)
+![Attendance marked](https://github.com/user-attachments/assets/6917e01b-aaba-4e55-bf6f-ec53297da4ae)
